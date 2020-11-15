@@ -1,0 +1,12 @@
+{
+  "name": "animated-horizontal-flatlist",
+  "displayName": "animated-horizontal-flatlist",
+  "expo": {
+    "name": "animated-horizontal-flatlist",
+    "slug": "animated-horizontal-flatlist",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
